@@ -1,5 +1,5 @@
 # Task 1: Basic Mathematical Operations  
-
+# output are in readme file, as an image 
 def basic_operations():  
     # Taking input from the user  
     num1 = float(input("Enter the first number: "))  
