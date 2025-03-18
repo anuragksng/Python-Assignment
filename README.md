@@ -47,3 +47,19 @@ This script asks the user for a number and performs the following calculations u
 - Natural logarithm (log base e) of the number  
 - Sine of the number (in radians)
 ![image](https://github.com/user-attachments/assets/0a3e5fe7-e5a7-4bc5-99ff-bb6ce76e36b1)
+
+
+# Assignment 4
+
+## Task 1: Read a File and Handle Errors  
+
+This script attempts to read a text file named `sample.txt`.   
+If the file exists, it prints its content line by line.  
+If the file does not exist, it handles the error gracefully and displays an appropriate message.  
+![image](https://github.com/user-attachments/assets/d9895961-4fce-415d-aa82-956b9b701327)
+
+## Task 2: Write and Append Data to a File  
+
+This script takes user input and writes it to a file named `output.txt`.  
+It also appends additional data to the same file and reads the final content, displaying it to the user.  
+![image](https://github.com/user-attachments/assets/df63201f-dcee-4494-9e0e-401a04a92260)
