@@ -63,3 +63,18 @@ If the file does not exist, it handles the error gracefully and displays an appr
 This script takes user input and writes it to a file named `output.txt`.  
 It also appends additional data to the same file and reads the final content, displaying it to the user.  
 ![image](https://github.com/user-attachments/assets/df63201f-dcee-4494-9e0e-401a04a92260)
+
+# Assignment 5
+
+## Task 1: Create a Dictionary of Student Marks  
+
+This script creates a dictionary with student names and their marks.   
+It prompts the user to input a student's name and retrieves the corresponding marks.   
+If the student's name is not found, an appropriate error message is displayed.  
+![image](https://github.com/user-attachments/assets/2028ace9-9970-40cc-8044-25b6b0de30ee)
+
+## Task 2: Demonstrate List Slicing  
+
+This script creates a list of numbers from 1 to 10.   
+It extracts the first five elements of the list, reverses them, and prints both the original extracted list and the reversed list.  
+![image](https://github.com/user-attachments/assets/ed44422c-e6e1-4e85-b806-0d4d226333a8)
